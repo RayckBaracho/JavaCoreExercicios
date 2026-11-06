@@ -16,7 +16,8 @@ public class Ex02NumerosPares {
                 System.out.println(i);
             }
 
-            sc.close();
+
         }
+        sc.close();
     }
 }
