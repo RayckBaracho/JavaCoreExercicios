@@ -3,7 +3,7 @@ package fundamentos;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ControleDeVendas {
+public class Ex02ControleDeVendas {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
